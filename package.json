@@ -15,5 +15,13 @@
     "cors": "^2.8.6",
     "express": "^5.2.1",
     "mongoose": "^9.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshat29sri/TO-DO-APP.git"
+  },
+  "bugs": {
+    "url": "https://github.com/akshat29sri/TO-DO-APP/issues"
+  },
+  "homepage": "https://github.com/akshat29sri/TO-DO-APP#readme"
 }
